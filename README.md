@@ -2,7 +2,7 @@
 
 
 🎓 Data Science Student at UC San Diego <br/>
-📝  I'm currently working as an Artificial Intelligence Intern at SmartQED.<br/>
+📝  I'm currently working as an Software Engineer Intern at SmartQED.<br/>
 📬  Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/athervvidhate/)!<br/>
 
 # 💻 Tech Stack:
