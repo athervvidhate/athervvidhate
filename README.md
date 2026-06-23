@@ -2,7 +2,7 @@
 
 
 🎓 Data Science Student at UC San Diego <br/>
-📝  I'm currently working as an AI R&D Intern at Intellinum.<br/>
+📝  I'm currently working as an Machine Learning Engineer Intern at Keysight Technologies.<br/>
 📬  Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/athervvidhate/)!<br/>
 
 # 💻 Tech Stack:
